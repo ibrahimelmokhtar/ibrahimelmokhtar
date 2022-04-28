@@ -219,6 +219,13 @@
     </p>
 </details>
 
+<details>
+    <summary><b>🏆 Git Profile Trophies</b></summary>
+    <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=ibrahimelmokhtar&column=4&margin-w=15&margin-h=15&theme=dracula" alt="Git Profile Trophies"/>
+    </p>
+</details>
+
 <!-- Snake Animation -->
 <hr>
 <h3 align ="center">
