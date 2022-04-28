@@ -34,6 +34,13 @@
 
 - 🤔 I’m currently open for new **`job opportunities`**
 
+<!-- Snake Animation -->
+<h3 align ="center">
+    Watch a 🐍 eating my contribution graph
+</h3>
+<p align="center">
+  <img src="https://github.com/ibrahimelmokhtar/ibrahimelmokhtar/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+
 <!-- Social Media Accounts -->
 <hr>
 <h3 align="left">
@@ -52,6 +59,10 @@
 </p>
 
 <!-- File Ending -->
-**Credits**: [Ibrahim El-Mokhtar](https://ibrahimelmokhtar.herokuapp.com/)
+<p style="float:left;">
+    <span style="font-weight: bold;">Credits</span>: <a href="https://ibrahimelmokhtar.herokuapp.com/" target="_blank">Ibrahim El-Mokhtar</a>
+</p>
 
-**Last Edited on**: 28/04/2022
+<p style="float:right;">
+    <span style="font-weight: bold;">Last Edited on</span>: 28/04/2022
+</p>
