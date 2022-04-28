@@ -189,6 +189,13 @@
     🚀 Development Activity
 </h3>
 
+<details open>
+    <summary><b>🔥 Streak Stats</b></summary>
+    <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimelmokhtar&theme=dracula" alt="Streak Stats"/>
+    </p>
+</details>
+
 <details>
     <summary><b>💻 GitHub Profile Stats</b></summary>
     <p align="center">
@@ -198,14 +205,17 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimelmokhtar&show_icons=true&locale=en&layout=compact&hide=c, c%2B%2B, makefile, cmake, batchfile, matlab&exclude_repo=Calculator&langs_count=10&theme=dracula" alt="Most Used Languages"/>
     </p>
     <p align="center">
-        <b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level</i>.
+        <b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
     </p>
 </details>
 
 <details>
-    <summary><b>🔥 Streak Stats</b></summary>
+    <summary><b>⚡ Recent GitHub Contribution</b></summary>
     <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimelmokhtar&theme=dracula" alt="Streak Stats"/>
+        <img src="https://activity-graph.herokuapp.com/graph?username=ibrahimelmokhtar&theme=dracula" alt="GitHub Contribution"/>
+    </p>
+    <p align="center">
+        <b>Note:</b> <i>This graph is showing GitHub Contributions <b>over the last 31 days</b>.</i>
     </p>
 </details>
 
