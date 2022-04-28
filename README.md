@@ -186,18 +186,26 @@
 <!-- Development Activities -->
 <hr>
 <h3>
-    🔥 Development Activity
+    🚀 Development Activity
 </h3>
+
 <details>
     <summary><b>💻 GitHub Profile Stats</b></summary>
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=ibrahimelmokhtar&show_icons=true&count_private=true&locale=en&theme=dracula" alt="GitHub Stats"/>
     </p>
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimelmokhtar&show_icons=true&locale=en&layout=compact&hide=c, makefile, cmake, batchfile, matlab&exclude_repo=Calculator&langs_count=10&theme=dracula" alt="Most Used Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimelmokhtar&show_icons=true&locale=en&layout=compact&hide=c, c%2B%2B, makefile, cmake, batchfile, matlab&exclude_repo=Calculator&langs_count=10&theme=dracula" alt="Most Used Languages"/>
     </p>
-    <p>
+    <p align="center">
         <b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level</i>.
+    </p>
+</details>
+
+<details>
+    <summary><b>🔥 Streak Stats</b></summary>
+    <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimelmokhtar&theme=dracula" alt="Streak Stats"/>
     </p>
 </details>
 
