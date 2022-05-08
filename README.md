@@ -202,7 +202,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=ibrahimelmokhtar&show_icons=true&count_private=true&locale=en&theme=dracula" alt="GitHub Stats"/>
     </p>
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimelmokhtar&show_icons=true&locale=en&layout=compact&hide=c, c%2B%2B, makefile, cmake, batchfile, matlab&exclude_repo=Calculator&langs_count=10&theme=dracula" alt="Most Used Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimelmokhtar&show_icons=true&locale=en&layout=compact&hide=c, c%2B%2B, makefile, cmake, batchfile, matlab&exclude_repo=Calculator&langs_count=6&theme=dracula" alt="Most Used Languages"/>
     </p>
     <p align="center">
         <b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
@@ -253,5 +253,5 @@
 
 <!-- File Ending -->
 <p align="right">
-    <b>Last Edit:</b> 28/04/2022
+    <b>Last Edit:</b> 08/05/2022
 </p>
