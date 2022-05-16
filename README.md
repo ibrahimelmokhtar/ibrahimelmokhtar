@@ -281,14 +281,21 @@
     💡 Let's Work Together
 </h3>
 <p align="center">
+    <!-- Portfolio -->
+    <a href = "https://ibrahimelmokhtar.herokuapp.com/">
+    <img align="center" src="https://img.icons8.com/bubbles/1000/web.png" alt="Portfolio Website" height="80px" width="80px" title="Portfolio Website"/>
+    </a>
+    <!-- LinkedIn -->
     <a href="https://linkedin.com/in/ibrahimelmokhtar" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn Account" height="30px" width="40px" title="LinkedIn Account"/>
+        <img align="center" src="https://img.icons8.com/bubbles/1000/linkedin.png" alt="LinkedIn Account" height="80px" width="80px" title="LinkedIn Account"/>
     </a>
+    <!-- GitHub -->
     <a href="https://github.com/ibrahimelmokhtar" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Account" height="30px" width="40px" title="GitHub Account"/>
+        <img align="center" src="https://img.icons8.com/bubbles/1000/github.png" alt="GitHub Account" height="80px" width="80px" title="GitHub Account"/>
     </a>
-    <a href="https://www.hackerrank.com/ibrahimelmokhtar" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank Account" height="30px" width="40px" title="HackerRank Account"/>
+    <!-- Gmail -->
+    <a href="mailto:ibrahimelmokhtar.business@gmail.com" target="_blank">
+        <img align="center" src="https://img.icons8.com/bubbles/1000/gmail.png" alt="Email Account" height="80px" width="80px" title="Send an Email"/>
     </a>
 </p>
 
