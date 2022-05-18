@@ -15,9 +15,9 @@
         <img src="https://badges.pufler.dev/years/ibrahimelmokhtar" alt="ibrahimelmokhtar GitHub Membership" title="Years of GitHub Membership"/>
     </a>
     <!-- Portfolio Website Status -->
-    <a href="https://ibrahimelmokhtar.herokuapp.com/" target="_blank">
+    <!-- <a href="https://ibrahimelmokhtar.herokuapp.com/" target="_blank">
         <img src="https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fibrahimelmokhtar.herokuapp.com%2F&label=Portfolio+Website" alt="ibrahimelmokhtar Portfolio Website" title="Portfolio Website"/>
-    </a>
+    </a> -->
     <!-- GitHub Profile Views -->
     <a href="https://komarev.com/sources/github-profile-views-counter" target="_blank">
         <img src="https://komarev.com/ghpvc/?username=ibrahimelmokhtar&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimelmokhtar Profile Views" title="GitHub Profile Views"/>
