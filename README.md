@@ -43,19 +43,61 @@
             <!-- Basic Infomation About Me -->
             <ul>
                 <li>🎓 I'm a <b>graduate</b> <b>mechatronics engineer</b> from <b>Ain-Shams University</b></li>
-                <li>🌱 I’m currently learning <b>egFWD Advanced Web Development</b></li>
-                <li>🔭 I’m currently working on <a href="https://github.com/ibrahimelmokhtar/ts-online-store-api">Online Store API</a></li>
-                <li>👨‍💻 All of my projects are available at my <a href="https://ibrahimelmokhtar.herokuapp.com/" target="_blank">portfolio website</a></li>
-                <li>📫 How to reach me <i>ibrahimelmokhtar.business@gmail.com</i></li>
-                <li>🤓 Always <b>learning new things</b></li>
-                <li>🤔 I’m currently open for new <b>job opportunities</b></li>
             </ul>
         </td>
-        <td align="right">
+        <td rowspan="7" align="right">
             <!-- Main GIF -->
             <img src="./assets/coding.gif" width="300px"/>
         </td>
     </tr>
+    <tr>
+        <td align="left">
+            <!-- Basic Infomation About Me -->
+            <ul>
+               <li>🌱 I’m currently learning <b>egFWD Advanced Web Development</b></li>
+            </ul>
+        </td>
+   </tr>
+    <tr>
+        <td align="left">
+            <!-- Basic Infomation About Me -->
+            <ul>
+                <li>🔭 I’m currently working on <a href="https://github.com/ibrahimelmokhtar/ts-online-store-api">Online Store API</a></li>
+           </ul>
+        </td>
+   </tr>
+    <tr>
+        <td align="left">
+            <!-- Basic Infomation About Me -->
+            <ul>
+               <li>👨‍💻 All of my projects are available at my <a href="https://ibrahimelmokhtar.herokuapp.com/" target="_blank">portfolio website</a></li>
+           </ul>
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+            <!-- Basic Infomation About Me -->
+            <ul>
+               <li>📫 How to reach me <i>ibrahimelmokhtar.business@gmail.com</i></li>
+           </ul>
+        </td>
+   </tr>
+    <tr>
+        <td align="left">
+            <!-- Basic Infomation About Me -->
+            <ul>
+                <li>🤓 Always <b>learning new things</b></li>
+           </ul>
+        </td>
+   </tr>
+    <tr>
+        <td align="left">
+            <!-- Basic Infomation About Me -->
+            <ul>
+               <li>🤔 I’m currently open for new <b>job opportunities</b></li>
+            </ul>
+        </td>
+   </tr>
 </table>
 
 
@@ -305,5 +347,5 @@
 
 <!-- File Ending -->
 <p align="right">
-    <b>Last Edit:</b> 16/05/2022
+    <b>Last Edit:</b> 21/05/2022
 </p>
