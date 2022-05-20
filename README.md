@@ -37,23 +37,27 @@
 </p>
 <hr>
 
-<!-- Main GIF -->
-<img align="right" src="./assets/coding.gif" width="300px"/>
+<table>
+    <tr>
+        <td align="left">
+            <!-- Basic Infomation About Me -->
+            <ul>
+                <li>🎓 I'm a <b>graduate</b> <b>mechatronics engineer</b> from <b>Ain-Shams University</b></li>
+                <li>🌱 I’m currently learning <b>egFWD Advanced Web Development</b></li>
+                <li>🔭 I’m currently working on <a href="https://github.com/ibrahimelmokhtar/ts-online-store-api">Online Store API</a></li>
+                <li>👨‍💻 All of my projects are available at my <a href="https://ibrahimelmokhtar.herokuapp.com/" target="_blank">portfolio website</a></li>
+                <li>📫 How to reach me <i>ibrahimelmokhtar.business@gmail.com</i></li>
+                <li>🤓 Always <b>learning new things</b></li>
+                <li>🤔 I’m currently open for new <b>job opportunities</b></li>
+            </ul>
+        </td>
+        <td align="right">
+            <!-- Main GIF -->
+            <img src="./assets/coding.gif" width="300px"/>
+        </td>
+    </tr>
+</table>
 
-<!-- Basic Infomation About Me -->
-- 🎓 I'm a **`graduate`** **`mechatronics engineer`** from **`Ain-Shams University`**
-
-- 🌱 I’m currently learning **`egFWD Advanced Web Development`**
-
-- 🔭 I’m currently working on [**Online Store API**](https://github.com/ibrahimelmokhtar/ts-online-store-api)
-
-- 👨‍💻 All of my projects are available at my [**portfolio website**](https://ibrahimelmokhtar.herokuapp.com/)
-
-- 📫 How to reach me *ibrahimelmokhtar.business@gmail.com*
-
-- 🤓 Always **`learning new things`**
-
-- 🤔 I’m currently open for new **`job opportunities`**
 
 <!-- Skills, Languages and Tools -->
 <hr>
