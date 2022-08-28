@@ -5,101 +5,100 @@
 
 <!-- Simple Greeting -->
 <h3 align="center">
-    A passionate Full-Stack Web Developer from Egypt
+    A passionate Front-End Web Developer from Egypt
 </h3>
 
 <!-- Badges -->
 <p align="center">
     <!-- GitHub Profile Membership -->
-    <a href="https://pufler.dev/git-badges/" target="_blank">
+    <!-- <a href="https://pufler.dev/git-badges/" target="_blank">
         <img src="https://badges.pufler.dev/years/ibrahimelmokhtar" alt="ibrahimelmokhtar GitHub Membership" title="Years of GitHub Membership"/>
-    </a>
+    </a> -->
     <!-- Portfolio Website Status -->
     <!-- <a href="https://ibrahimelmokhtar.herokuapp.com/" target="_blank">
         <img src="https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fibrahimelmokhtar.herokuapp.com%2F&label=Portfolio+Website" alt="ibrahimelmokhtar Portfolio Website" title="Portfolio Website"/>
     </a> -->
     <!-- GitHub Profile Views -->
-    <a href="https://komarev.com/sources/github-profile-views-counter" target="_blank">
+    <!-- <a href="https://komarev.com/sources/github-profile-views-counter" target="_blank">
         <img src="https://komarev.com/ghpvc/?username=ibrahimelmokhtar&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimelmokhtar Profile Views" title="GitHub Profile Views"/>
-    </a>
+    </a> -->
     <!-- Public Repositories Count -->
-    <a href="https://pufler.dev/git-badges/" target="_blank">
+    <!-- <a href="https://pufler.dev/git-badges/" target="_blank">
         <img src="https://badges.pufler.dev/repos/ibrahimelmokhtar?label=Public+Repos" alt="ibrahimelmokhtar Public Repositories" title="GitHub Public Repositories"/>
-    </a>
+    </a> -->
     <!-- GitHub Monthly Commits -->
-    <a href="https://pufler.dev/git-badges/" target="_blank">
+    <!-- <a href="https://pufler.dev/git-badges/" target="_blank">
         <img src="https://badges.pufler.dev/commits/monthly/ibrahimelmokhtar" alt="ibrahimelmokhtar GitHub Monthly Commits" title="GitHub Monthly Commits"/>
-    </a>
+    </a> -->
     <!-- README File Last Commit -->
-    <a href="https://shields.io/category/activity" target="_blank">
+    <!-- <a href="https://shields.io/category/activity" target="_blank">
         <img src="https://img.shields.io/github/last-commit/ibrahimelmokhtar/ibrahimelmokhtar?label=README Last Commit" alt="ibrahimelmokhtar README Last Commit" title="README Last Commit"/>
-    </a>
+    </a> -->
 </p>
 <hr>
 
 <table>
     <tr>
+        <!-- Basic Information About Me -->
         <td align="left">
-            <!-- Basic Infomation About Me -->
             <ul>
                 <li>🎓 I'm a <b>graduate</b> <b>mechatronics engineer</b> from <b>Ain-Shams University</b></li>
             </ul>
         </td>
-        <td rowspan="7" align="right">
-            <!-- Main GIF -->
-            <img src="./assets/coding.gif" width="300px"/>
+       <!-- Main GIF -->
+        <td  rowspan="4" align="right">
+            <img src="assets/coding.gif" alt="Main GIF"  width="400px">
         </td>
     </tr>
     <tr>
+        <!-- Basic Information About Me -->
         <td align="left">
-            <!-- Basic Infomation About Me -->
             <ul>
-               <li>🌱 I’m currently learning <b>egFWD Advanced Web Development</b></li>
+               <li>🌱 I’m currently learning <b>CS50's Introduction to Computer Science</b></li>
             </ul>
         </td>
    </tr>
-    <tr>
+    <!-- Basic Information About Me -->
+    <!-- <tr>
         <td align="left">
-            <!-- Basic Infomation About Me -->
             <ul>
                 <li>🔭 I’m currently working on <a href="https://github.com/ibrahimelmokhtar/ts-online-store-api">Online Store API</a></li>
            </ul>
         </td>
-   </tr>
-    <tr>
+   </tr> -->
+    <!-- Basic Information About Me -->
+    <!-- <tr>
         <td align="left">
-            <!-- Basic Infomation About Me -->
             <ul>
                <li>👨‍💻 All of my projects are available at my <a href="https://ibrahimelmokhtar.herokuapp.com/" target="_blank">portfolio website</a></li>
            </ul>
         </td>
-    </tr>
-    <tr>
+    </tr> -->
+    <!-- Basic Information About Me -->
+    <!-- <tr>
         <td align="left">
-            <!-- Basic Infomation About Me -->
             <ul>
                <li>📫 How to reach me <i>ibrahimelmokhtar.business@gmail.com</i></li>
            </ul>
         </td>
-   </tr>
+   </tr> -->
+    <!-- Basic Information About Me -->
     <tr>
         <td align="left">
-            <!-- Basic Infomation About Me -->
             <ul>
                 <li>🤓 Always <b>learning new things</b></li>
            </ul>
         </td>
    </tr>
+    <!-- Basic Information About Me -->
     <tr>
         <td align="left">
-            <!-- Basic Infomation About Me -->
             <ul>
                <li>🤔 I’m currently open for new <b>job opportunities</b></li>
             </ul>
         </td>
    </tr>
 </table>
-
 
 <!-- Skills, Languages and Tools -->
 <hr>
@@ -352,5 +351,5 @@
 
 <!-- File Ending -->
 <p align="right">
-    <b>Last Edit:</b> 23/05/2022
+    <b>Last Edit:</b> 28/08/2022
 </p>
