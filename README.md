@@ -106,172 +106,125 @@
     🛠️ Languages and Tools
 </h3>
 <table align="center">
-    <tr>
-        <th colspan=9>In Alphabetical Order</th>
-    </tr>
-    <tr>
-        <td align="center">
-            <!-- Arduino -->
-            <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="50px" height="50px" title="Arduino"/>
-            </a>
-        </td>
-        <td align="center">
-            <!-- C -->
-            <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50px" height="50px" title="C"/>
-            </a>
-        </td>
-        <td align="center">
-            <!-- Cpp -->
-            <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50px" height="50px" title="C++"/>
-            </a>
-        </td>
-        <td align="center">
-            <!-- CSS -->
-            <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50px" height="50px" title="CSS3"/>
-            </a>
-        </td>
-        <td align="center">
-            <!-- Express -->
-            <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50px" height="50px" title="Express"/>
-            </a>
-        </td>
-        <td align="center">
-            <!-- Git -->
-            <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50px" height="50px" title="Git"/>
-            </a>
-        </td>
-        <td align="center">
-            <!-- GitHub -->
-            <a href="https://github.com/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="50px" height="50px" title="GitHub"/>
-            </a>
-        </td>
-        <td align="center">
-            <!-- Heroku -->
-            <a href="https://devcenter.heroku.com/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="markdown" width="50px" height="50px" title="Heroku"/>
-            </a>
-        </td>
-        <td align="center">
-            <!-- HTML5 -->
-            <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50px" height="50px" title="HTML5"/>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <!-- Jasmine -->
-            <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="50px" height="50px" title="Jasmine"/>
-            </a>
-        </td>
-        <td align="center">
-            <!-- JavaScript -->
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50px" height="50px" title="JavaScript"/>
-            </a>
-        </td>
-        <td align="center">
-            <!-- Markdown -->
-            <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="50px" height="50px" title="Markdown"/>
-            </a>
-        </td>
-        <td align="center">
-            <!-- MatLab -->
-            <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="50px" height="50px" title="MatLab"/>
-            </a>
-        </td>
-        <td align="center">
-            <!-- MongoDB -->
-            <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50px" height="50px" title="MongoDB"/>
-            </a>
-        </td>
-        <td align="center">
-            <!-- NodeJS -->
-            <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50px" height="50px" title="NodeJS"/>
-            </a>
-        </td>
-        <td align="center">
-            <!-- NPM -->
-            <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50px" height="50px" title="Node Package Manager"/>
-            </a>
-        </td>
-        <td align="center">
-            <!-- OpenCV -->
-            <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg" alt="opencv" width="50px" height="50px" title="OpenCV"/>
-            </a>
-        </td>
-        <td align="center">
-            <!-- PostgreSQL -->
-            <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50px" height="50px" title="PostgreSQL"/>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <!-- Postman -->
-            <a href="https://postman.com" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50px" height="50px" title="Postman"/>
-            </a>
-        </td>
-        <td align="center">
-            <!-- Python -->
-            <a href="https://www.python.org" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50px" height="50px" title="Python"/>
-            </a>
-        </td>
-        <td align="center">
-            <!-- Raspberry Pi -->
-            <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="50px" height="50px" title="Raspberry Pi"/>
-            </a>
-        </td>
-        <td align="center">
-            <!-- SASS -->
-            <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50px" height="50px" title="SASS"/>
-            </a>
-        </td>
-        <td align="center">
-            <!-- Trello -->
-            <a href="https://trello.com/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg" alt="trello" width="50px" height="50px" title="Trello"/>
-            </a>
-        </td>
-        <td align="center">
-            <!-- TypeScript -->
-            <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50px" height="50px" title="TypeScript"/>
-            </a>
-        </td>
-        <td align="center">
-            <!-- Ubuntu -->
-            <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="50px" height="50px" title="Ubuntu"/>
-            </a>
-        </td>
-        <td align="center">
-            <!-- VSCode -->
-            <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="ubuntu" width="50px" height="50px" title="Visual Studio Code"/>
-            </a>
-        </td>
-        <td></td>
-    </tr>
+    <thead>
+        <th colspan=6>In Alphabetical Order</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center">
+                <!-- CSS -->
+                <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50px" height="50px" title="CSS3"/>
+                </a>
+            </td>
+            <td align="center">
+                <!-- Express -->
+                <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50px" height="50px" title="Express"/>
+                </a>
+            </td>
+            <td align="center">
+                <!-- Git -->
+                <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+                    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50px" height="50px" title="Git"/>
+                </a>
+            </td>
+            <td align="center">
+                <!-- GitHub -->
+                <a href="https://github.com/" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="50px" height="50px" title="GitHub"/>
+                </a>
+            </td>
+            <td align="center">
+                <!-- Gulp -->
+                <a href="https://gulpjs.com/" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="50px" height="50px" title="GulpJS"/>
+                </a>
+            </td>
+            <td align="center">
+                <!-- HTML5 -->
+                <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50px" height="50px" title="HTML5"/>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <!-- Jasmine -->
+                <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer">
+                    <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="50px" height="50px" title="Jasmine"/>
+                </a>
+            </td>
+            <td align="center">
+                <!-- JavaScript -->
+                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50px" height="50px" title="JavaScript"/>
+                </a>
+            </td>
+            <td align="center">
+                <!-- Markdown -->
+                <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="50px" height="50px" title="Markdown"/>
+                </a>
+            </td>
+            <td align="center">
+                <!-- MongoDB -->
+                <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50px" height="50px" title="MongoDB"/>
+                </a>
+            </td>
+            <td align="center">
+                <!-- NodeJS -->
+                <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50px" height="50px" title="NodeJS"/>
+                </a>
+            </td>
+            <td align="center">
+                <!-- NPM -->
+                <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50px" height="50px" title="Node Package Manager"/>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <!-- PostgreSQL -->
+                <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50px" height="50px" title="PostgreSQL"/>
+                </a>
+            </td>
+            <td align="center">
+                <!-- Postman -->
+                <a href="https://postman.com" target="_blank" rel="noreferrer">
+                    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50px" height="50px" title="Postman"/>
+                </a>
+            </td>
+            <td align="center">
+                <!-- Python -->
+                <a href="https://www.python.org" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50px" height="50px" title="Python"/>
+                </a>
+            </td>
+            <td align="center">
+                <!-- React -->
+                <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50px" height="50px" title="ReactJS"/>
+                </a>
+            </td>
+            <td align="center">
+                <!-- SASS -->
+                <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50px" height="50px" title="SASS"/>
+                </a>
+            </td>
+            <td align="center">
+                <!-- TypeScript -->
+                <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50px" height="50px" title="TypeScript"/>
+                </a>
+            </td>
+        </tr>
+    </tbody>
 </table>
 
 <!-- Development Activities -->
@@ -293,7 +246,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=ibrahimelmokhtar&show_icons=true&count_private=true&locale=en&theme=dracula" alt="GitHub Stats"/>
     </p>
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimelmokhtar&show_icons=true&locale=en&layout=compact&hide=c, c%2B%2B, makefile, cmake, batchfile, matlab&exclude_repo=Calculator&langs_count=6&theme=dracula" alt="Most Used Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimelmokhtar&show_icons=true&locale=en&layout=compact&hide=c,%20c%2B%2B,%20makefile,%20cmake,%20batchfile,%20matlab&exclude_repo=Calculator&langs_count=6&theme=dracula" alt="Most Used Languages"/>
     </p>
     <p align="center">
         <b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
@@ -332,7 +285,7 @@
 </h3>
 <p align="center">
     <!-- Portfolio -->
-    <a href = "https://ibrahimelmokhtar.herokuapp.com/">
+    <a href = "https://ibrahimelmokhtar.netlify.app/">
     <img align="center" src="https://img.icons8.com/bubbles/1000/web.png" alt="Portfolio Website" height="80px" width="80px" title="Portfolio Website"/>
     </a>
     <!-- LinkedIn -->
@@ -344,12 +297,12 @@
         <img align="center" src="https://img.icons8.com/bubbles/1000/github.png" alt="GitHub Account" height="80px" width="80px" title="GitHub Account"/>
     </a>
     <!-- Gmail -->
-    <a href="mailto:ibrahimelmokhtar.business@gmail.com" target="_blank">
+    <a href="mailto:ibrahimelmokhtar@gmail.com" target="_blank">
         <img align="center" src="https://img.icons8.com/bubbles/1000/gmail.png" alt="Email Account" height="80px" width="80px" title="Send an Email"/>
     </a>
 </p>
 
 <!-- File Ending -->
 <p align="right">
-    <b>Last Edit:</b> 28/08/2022
+    <b>Last Edit:</b> 08/10/2022
 </p>
